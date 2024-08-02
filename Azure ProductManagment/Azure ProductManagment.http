@@ -1,0 +1,6 @@
+@Azure_ProductManagment_HostAddress = http://localhost:5050
+
+GET {{Azure_ProductManagment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
